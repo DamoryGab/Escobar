@@ -1,0 +1,36 @@
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+}
+.d{
+    rotate: -45deg;
+}
+.damo{
+    writing-mode: vertical-rl;
+    text-orientation:unset ;
+}
+.formcontainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+}
+.formgroup{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    margin-bottom: 15px;
+}
+.T1{
+    height: 3cm;
+    width: 4cm;
+}
+.T2{
+    height: auto;
+    width: 4cm;
+}

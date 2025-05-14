@@ -1,0 +1,37 @@
+
+
+h2{
+    color: brown;
+}
+.contain{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+h1{
+    text-decoration: underline;
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+}
+th, td{
+    border: 1px solid #000;
+    padding: 10px;
+}
+
+.Damory{
+    position: absolute top ;
+    width: 15%;
+    float: right ;
+    
+}
+.DAMO{
+    position: absolute top ;
+    width: 13%;
+    float: left ;
+}
+img{
+    width: 40%;
+    height: 10%;
+}

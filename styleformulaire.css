@@ -1,0 +1,34 @@
+label{
+    margin: 15px 10px;
+}
+input{
+    padding: 10px;
+    height: auto;
+}
+.fieldset{
+    width: 40%;
+3
+}
+legend{
+    text-align: center;
+}
+.Expertise{
+    width: 50%;
+}
+select{
+    width: 5cm;
+    height: 1cm;
+}
+.bouton{
+    cursor: pointer;
+}
+.ETAT{
+    width: max-content;
+    border-left-color: rgb(155, 155, 160);
+    border-spacing: 5cm;
+    padding-left: 0.5cm;
+    border-radius: 1cm 0cm 0cm 1cm ;
+    border-width: 0.2cm;
+    background-color: blanchedalmond;
+    border: dashed;
+}3
